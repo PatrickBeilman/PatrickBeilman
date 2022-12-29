@@ -1,6 +1,6 @@
  👋 Hi, I’m @PatrickBeilman
 
- I'm currently proficient in python, scratch, and GPON installation  
+ I'm currently proficient in python, scratch, and GPON Networking 
 
 I’m currently learning; more python, html&CSS, Fullstack, Cisco Networking, and GPON Networking
 
